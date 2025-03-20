@@ -1,0 +1,1 @@
+The Fizzbuzz program promps the user to enter 2 numbers and then prints them, if the number is divisibal by 3 it prints fizz, if its divisibal by 5 it prints buzz, and if its divisibal by 3 and 5 it prints Fizzbuzz.
